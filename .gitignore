@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# OS or editor files
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+
+# Build files
+/build/
+/dist/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+
+
+# Ignore npm's cache directory
+.npm
+
+# Ignore coverage output
+coverage/
